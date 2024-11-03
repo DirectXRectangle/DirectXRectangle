@@ -6,7 +6,3 @@
 - 🌱 I’m currently learning **DirectX 11.**
 
 - 📫 How to reach me (Discord): **directxrectangle**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
